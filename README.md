@@ -22,12 +22,11 @@ or
 go build -o fdl
 ``
 
-3 - Otherwhise you can download the .exe file and add its location to 'PATH' envoironment variable
+3 - Otherwhise you can download the .exe file and add its location to 'PATH' envoironment variable:
+Download <a href="binaries.zip">Binaries</a>
 
-<a href=""></a>
 
-
-Examples: 
+## Examples: 
 
 Download a Sample PDF
 ``
