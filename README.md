@@ -8,7 +8,7 @@
 1 - Clone or download repository
 
 ``
-git clone https://github.com/ortizdavid/go-downloader
+git clone https://github.com/ortizdavid/file-downloader
 ``
 
 2 - Go to project folder and build it
@@ -23,7 +23,7 @@ go build -o fdl
 ``
 
 3 - Otherwhise you can download the .exe file and add its location to 'PATH' envoironment variable:
-Download <a href="binaries.zip">Binaries</a>
+Download <a href="binaries">Binaries</a>
 
 
 ## Commands:
