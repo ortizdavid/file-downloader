@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/ortizdavid/go-downloader/core"
-	"github.com/ortizdavid/go-downloader/helpers"
+	"github.com/ortizdavid/file-downloader/core"
+	"github.com/ortizdavid/file-downloader/helpers"
 )
 
 func main() {

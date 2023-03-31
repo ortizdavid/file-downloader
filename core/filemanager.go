@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"github.com/ortizdavid/go-downloader/helpers"
+	"github.com/ortizdavid/file-downloader/helpers"
 )
 
 type FileManager struct {}

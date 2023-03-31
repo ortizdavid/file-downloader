@@ -1,3 +1,3 @@
-module github.com/ortizdavid/go-downloader
+module github.com/ortizdavid/file-downloader
 
 go 1.19
